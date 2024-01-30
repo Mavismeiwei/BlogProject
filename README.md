@@ -1,6 +1,6 @@
 # Vivi’s Food Blog
 
-Vivi’s Food Blog is a full-stack web application designed as a user-friendly platform for food enthusiasts. Developed between February and May 2023, it features a collection of recipes, user interactions, and real-time content updates. Below are the highlights of the technologies and features incorporated into this project.
+Vivi’s Food Blog is a full-stack web application designed as a user-friendly platform for food enthusiasts. It features a collection of recipes, user interactions, and real-time content updates. Below are the highlights of the technologies and features incorporated into this project.
 
 ## Key Features
 
